@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -895,7 +895,7 @@
                 "title": "Nefelibata",
                 "customStyle1": "display-7",
                 "caption": "by kimotherapen",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Watercolor",
@@ -1168,7 +1168,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "by kimotherapen",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Oil Painting",
