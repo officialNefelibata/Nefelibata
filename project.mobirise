@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "nefelibata",
     "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
@@ -63,7 +63,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 90,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -817,7 +819,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "by kimotherapen",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Digital",
@@ -895,7 +897,7 @@
                 "title": "Nefelibata",
                 "customStyle1": "display-7",
                 "caption": "by kimotherapen",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Watercolor",
